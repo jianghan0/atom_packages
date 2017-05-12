@@ -20,3 +20,8 @@ railscast-theme
 slim-language
 sort-lines
 tabs-to-spaces
+tag
+emmet
+atom-beautify
+tabs-to-spaces
+git-plus
