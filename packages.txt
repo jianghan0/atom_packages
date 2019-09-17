@@ -2,12 +2,11 @@ atom-dark-ui-slim@0.47.1
 atom-vue@0.6.0
 autocomplete-paths@2.12.2
 autohide-tree-view@0.25.1
+busy-signal@2.0.1
 color-picker@2.3.0
 docker-linter-rubocop@0.2.2
-emmet@2.4.3
 file-icons@2.1.35
 git-blame@1.8.0
-git-plus@8.7.1
 highlight-selected@0.16.0
 intentions@1.1.5
 language-slim@1.0.1
@@ -23,7 +22,6 @@ merge-conflicts@1.4.5
 minimap@4.29.9
 minimap-highlight-selected@4.6.1
 minimap-pigments@0.2.2
-pigments@0.40.2
 pretty-json@2.1.2
 project-manager@3.3.7
 rails-snippets@2.23.0
